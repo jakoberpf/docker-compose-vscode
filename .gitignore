@@ -1,0 +1,3 @@
+# configuration directory
+config/*
+!config/.gitkeep
