@@ -1,4 +1,5 @@
 # configuration directory
 config/*
 !config/.gitkeep
+# node modules directory
 /node_modules
